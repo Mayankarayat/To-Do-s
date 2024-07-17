@@ -1,8 +1,4 @@
-import React, { useContext, useState } from "react";
-import { MdEdit } from "react-icons/md";
-import { FcEditImage } from "react-icons/fc";
-import { MdDeleteOutline } from "react-icons/md";
-import { CiSquareCheck } from "react-icons/ci";
+import React, { useContext} from "react";
 import Tasklist from "./Tasklist";
 import { Todos } from "../Context/TodoContex";
 
