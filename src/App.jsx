@@ -1,5 +1,5 @@
 
-import "./App.css";
+
 import TaskAdd from "./Components/TaskAdd";
 import { TodoProvider } from "./Context/TodoContex";
 
